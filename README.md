@@ -48,9 +48,9 @@ Huzaifa Ibrahim Babangida | Huzaifa-sys
 | Name | Area of Interest |
 1.uzairu Alhaji musa| Genomics
 2. Naja'atu Idris| Transcriptomics
-3. Zaba Joseph | 
-4. Kamisu Sa'idu| 
-5. Huzaifa Ibrahim Babangid|
+3. Kamisu Sa'idu| Proteomics 
+4. Zaba Joseph | Transcriptomics
+5. Huzaifa Ibrahim Babangida | proteiomics
 
 Conclusion
 This project introduces students to the fundamentals of bioinformatics and collaborative programming. Through the use of GitHub and documentation practices, students gain experience in teamwork, coding, and project organization which are essential skills in modern bioinformatics research.
