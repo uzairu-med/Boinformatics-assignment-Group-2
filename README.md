@@ -1,4 +1,4 @@
-*Introduction to Bioinformatics – Group Assignment*
+##Introduction to Bioinformatics – Group Assignment
 
 *Project Title*
 Introduction to Bioinformatics: Basic Programming and Collaboration using GitHub
