@@ -43,6 +43,17 @@ zaba Joseph @zabajoseph
 Kamisu Sa'idu | @kamisusaidu-dgd
 Huzaifa Ibrahim Babangida | @Huzaifa-sys
 
+
+## Group Members Matriculation Numbers
+
+| S/N | Matric Number |
+|----|---------------|
+| 1 | BASUG/UG/BMS/ANA/22/4121 |
+| 2 | BASUG/UG/BMS/ANA/22/3433 |
+| 3 | BASUG/UG/BMS/ANA/22/3811 |
+| 4 | BASUG/UG/BMS/ANA/22/6086 |
+| 5 | BASUG/UG/BMS/ANA/22/4435 |
+
  ## Area of Interest in Bioinformatics
 
 | Name | Area of Interest |
