@@ -1,9 +1,9 @@
-Introduction to Bioinformatics – Group Assignment
+*Introduction to Bioinformatics – Group Assignment*
 
-Project Title
+*Project Title*
 Introduction to Bioinformatics: Basic Programming and Collaboration using GitHub
 
-Brief Overview of Introduction to Bioinformatics
+*Brief Overview of Introduction to Bioinformatics*
 
 Bioinformatics is an interdisciplinary field that combines biology, computer science, mathematics, and statistics to analyze and interpret biological data. It plays an important role in modern biological research, especially in areas such as genomics, proteomics, drug discovery, and evolutionary studies.
 
@@ -11,11 +11,11 @@ Bioinformatics helps scientists to store, manage, analyze, and visualize large b
 
 The field is widely used in medical sciences, molecular biology, genetics, and pharmaceutical research to solve biological problems using computational techniques. 
 
-Description of the Assignment
+*Description of the Assignment*
 
 This assignment is designed to introduce students to the basic concepts of bioinformatics programming and collaborative research using GitHub.
 
-The main objectives of the assignment include:
+*The main objectives of the assignment include:*
 
 - Learning how to create and manage a GitHub repository.
 - Writing a simple script that prints personal information such as name, email, GitHub username, and area of interest in bioinformatics.
@@ -25,7 +25,7 @@ The main objectives of the assignment include:
 
 Each group member contributes to the repository and documents their area of interest in bioinformatics.
 
-List of Group Members
+*List of Group Members*
 
 1. Uzairu Alhaji Musa  
 2. Naja'atu Idris
@@ -33,17 +33,17 @@ List of Group Members
 4. Kamisu Sa'idu
 5. Huzaifa Ibrahim Babangida
 
-GitHub Usernames of Contributors
+*GitHub Usernames of Contributors*
 
  Name | GitHub Username |
 
-Uzairu Alhaji Musa | uzairu-med
-Naja'atu Idris| naja'atu-ana
-zaba Joseph zabajoseph
-Kamisu Sa'idu | kamisu
-Huzaifa Ibrahim Babangida | Huzaifa-sys
+Uzairu Alhaji Musa | @uzairu-med
+Naja'atu Idris| @naja'atu-ana
+zaba Joseph @zabajoseph
+Kamisu Sa'idu | @kamisusaidu-dgd
+Huzaifa Ibrahim Babangida | @Huzaifa-sys
 
- Area of Interest in Bioinformatics
+ *Area of Interest in Bioinformatics*
 
 | Name | Area of Interest |
 1.uzairu Alhaji musa| Genomics
@@ -52,5 +52,12 @@ Huzaifa Ibrahim Babangida | Huzaifa-sys
 4. Zaba Joseph | Transcriptomics
 5. Huzaifa Ibrahim Babangida | proteiomics
 
-Conclusion
+*Authors*
+This project was collaboratively developed by Group 2 as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
+
+*Lead Author/Project maintainer*
+Uzairu Alhaji Musa - workflow design, python script Development, Repository management.
+Github: https://github.com/uzairu-med
+
+*Conclusion*
 This project introduces students to the fundamentals of bioinformatics and collaborative programming. Through the use of GitHub and documentation practices, students gain experience in teamwork, coding, and project organization which are essential skills in modern bioinformatics research.
